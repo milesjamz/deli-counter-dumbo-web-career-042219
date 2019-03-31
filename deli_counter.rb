@@ -1,10 +1,12 @@
 # Write your code here.
 katz_deli = []
 def line(katz_deli)
+  newArray = []
   if katz_deli.length == 0
   puts "The line is currently empty."
 else
-  katz_deli.each.with_index(1) do (name, index)
+  katz_deli.each.with_index(1) do |name, index|
+  
   puts "The line is currently:"
   end
 end
