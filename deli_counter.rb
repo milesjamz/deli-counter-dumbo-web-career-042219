@@ -5,6 +5,7 @@ def line(katz_deli)
   puts "The line is currently empty."
 else
   puts "The line is currently:"
+  end
 end
 
 def take_a_number(katz_deli, newbie)
