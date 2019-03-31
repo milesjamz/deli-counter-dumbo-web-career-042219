@@ -9,7 +9,6 @@ end
 def now_serving(katz_deli)
   if katzdeli.length == 0
     puts "The line is currently empty."
-  end
   else puts "Currently serving #{name}."
   katz_deli.shift
 end
