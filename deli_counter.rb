@@ -14,7 +14,7 @@ end
 
 def take_a_number(katz_deli, newbie)
   katz_deli.push(newbie)
-  puts "Welcome, #{newbie}! You are number #{katz_deli.length + 1} in line."
+  puts "Welcome, #{newbie}! You are number #{katz_deli.length} in line."
 end
 
 def now_serving(katz_deli)
