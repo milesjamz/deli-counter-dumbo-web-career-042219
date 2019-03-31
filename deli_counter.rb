@@ -7,5 +7,5 @@ def take_a_number(katz_deli, newbie)
   katz_deli.push("Welcome, #{newbie}! You are number #{number} on the line.")
 end
 def now_serving(katz_deli)
-  puts "Currently serving #{name}
-  katz_deli."
+  puts "Currently serving #{name}."
+  katz_deli.
